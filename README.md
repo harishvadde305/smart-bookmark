@@ -75,8 +75,27 @@ Configured environment variables in Vercel for secure deployment.
 
 ---
 
-## 🚀 Live Demo
-(Will be added after Vercel deployment)
+---
+
+## 🌐 Live Demo
+
+You can access the live application here:
+
+🔗 https://smart-bookmark-wine.vercel.app
+
+---
+
+## 🚀 Deployment
+
+This project is deployed on Vercel with full Supabase integration including:
+
+- Google Authentication
+- Realtime bookmark updates
+- Secure environment variables
+- Production-ready deployment
+
+---
+
 
 ---
 
